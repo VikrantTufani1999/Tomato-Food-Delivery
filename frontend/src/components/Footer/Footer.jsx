@@ -9,10 +9,11 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-            voluptatem similique repudiandae id velit fugit nesciunt ut, ea
-            nobis sed dolor, esse tempore possimus aliquid omnis nisi optio
-            itaque! Maiores?
+            Tomato is a responsive food delivery app built with React, HTML,
+            CSS, and JavaScript. It offers a seamless user experience, allowing
+            users to add and remove items from the cart, filter food items by
+            category, and enjoy smooth animations. Tomato makes food ordering
+            simple and enjoyable.
           </p>
           <div className="footer-social-icons">
             {" "}
