@@ -4,4 +4,4 @@
 - planning to add backend services to this app
 
 Deployed at : 
-[Tomato-Food Delivery App]([https://link-url-here.org](https://master--worldoffoodies.netlify.app/))
+[Tomato-Food Delivery App](https://master--worldoffoodies.netlify.app/)
